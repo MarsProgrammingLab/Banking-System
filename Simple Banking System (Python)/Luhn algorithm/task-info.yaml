@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: banking/banking.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: true
+    learner_created: false
+  - name: test/tests.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/109/stages/592/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 28 May 2026 04:09:28 UTC"
+record: -1
